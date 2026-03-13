@@ -4,9 +4,9 @@
 
 Depois, deve mostrar duas mensagens:
 
-1\) “A primeira entrada é um dado do tipo <tipo>”; 
+1) “A primeira entrada é um dado do tipo <tipo>”; 
 
-2\) “A segunda entrada é do tipo <tipo>”, em que <tipo> deve ser trocado pelo tipo dos dados de entrada do
+2) “A segunda entrada é do tipo <tipo>”, em que <tipo> deve ser trocado pelo tipo dos dados de entrada do
 
 usuário.
 
